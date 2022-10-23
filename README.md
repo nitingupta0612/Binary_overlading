@@ -33,5 +33,5 @@ int main()
 	Distance d3;
 	d3=d1+d2;
 	cout<<"\nTotal Feet & Inches: "<<d3.feet<<" ' "<<d3.inch;
-	return 0;
+	getch() ;
 }
